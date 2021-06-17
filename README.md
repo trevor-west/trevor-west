@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @trevor-west
+- 👀 I’m interested in reading (specifically Sci-Fi and currently Dune), and many other things (e.g., Japanese, Chinese, exercise, meditation, psychology, philosophy, culture, etc.).
+- 🌱 I’m currently learning front-end web development (HTML/CSS/JS) with The Odin Project and Codecademy, Japanese and Chinese as self-study, and SEO, Web Design (XD), and other Adobe products (Ps, Ae, Pr).
+- 💞️ I’m looking to collaborate on cool web development projects for beginners; I would also love to be involved in intro web design then build initiatives.
+- 📫 How to reach me: look me up on Instagram/Facebook.
